@@ -1,5 +1,9 @@
 Combine and Copy Files
 
+https://plugins.jetbrains.com/plugin/24707-combine-and-copy-files/
+
+![img.png](img.png)
+
 The Combine Files Plugin is a powerful and intuitive tool designed to streamline your workflow by merging the contents of multiple files into a single document. This plugin is particularly useful for developers, writers, and anyone who needs to consolidate information from various sources quickly and efficiently.
 
 Key Features:
