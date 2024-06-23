@@ -5,4 +5,4 @@ pluginManagement {
     }
 }
 
-rootProject.name = "GPT-helper"
+rootProject.name = "JetBrains-Plugin-Combine-And-Copy-Files"
