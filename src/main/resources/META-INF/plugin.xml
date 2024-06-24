@@ -4,7 +4,7 @@
     <version>1.0</version>
     <vendor email="gmale@icloud.com" url="https://github.com/gmgale/">George Gale</vendor>
     <description>
-        This plugin enables you to merge the contents of multiple selected files into a single file, with each file's content separated by its filename and copy it to the clipboard.
+         Merge files and copy the result to clipboard, with each file's content separated by its filename. Ideal for providing better context to LLMs such as ChatGPT.
     </description>
 
     <depends>com.intellij.modules.platform</depends>
