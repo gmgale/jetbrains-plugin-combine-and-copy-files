@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.george.gale.CombineAndCopyFiles</id>
     <name>Combine and Copy Files</name>
-    <version>1.0</version>
+    <version>1.0.0</version>
     <vendor email="gmale@icloud.com" url="https://github.com/gmgale/">George Gale</vendor>
     <description>
          Merge files and copy the result to clipboard, with each file's content separated by its filename. Ideal for providing better context to LLMs such as ChatGPT.
@@ -16,7 +16,7 @@
     </actions>
 
     <product-descriptor
-            code="combineCopyFile"
+            code="P1234"
             release-date="20240624"
             release-version="1"
             optional="true" />
