@@ -1,6 +1,6 @@
 ### JetBrains Plugin - Combine and Copy Files
 
-[Plugin Link](https://plugins.jetbrains.com/plugin/24707-combine-and-copy-files/)
+[Plugin Link](https://plugins.jetbrains.com/plugin/24708-combine-and-copy-files/)
 
 **The Combine and Copy Files Plugin** merges multiple files into one document, split by filename and saved to the clipboard.
 ideal for combining code snippets, logs, or notes for easy sharing and editing.
@@ -9,7 +9,7 @@ ideal for combining code snippets, logs, or notes for easy sharing and editing.
 
 
 **Installation:**
-- Go to `Settings -> Plugins -> Marketplace` and search for `Combine and Copy Files` or use [Plugin Link](https://plugins.jetbrains.com/plugin/24707-combine-and-copy-files/)
+- Go to `Settings -> Plugins -> Marketplace` and search for `Combine and Copy Files` or use [Plugin Link](https://plugins.jetbrains.com/plugin/24708-combine-and-copy-files/)
 
 **Key Features:**
 - **Multiple File Selection:** Select files directly from the project view.
