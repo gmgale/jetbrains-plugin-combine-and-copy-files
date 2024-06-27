@@ -16,7 +16,7 @@
     </actions>
 
     <product-descriptor
-            code="P1234"
+            code="PAAAA"
             release-date="20240624"
             release-version="10"
             optional="true" />
