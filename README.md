@@ -1,29 +1,28 @@
-### JetBrains Plugin - Combine and Copy Files
+### JetBrains Plugin - Combine and Copy to Clipboard
 
 [Plugin Link]([https://plugins.jetbrains.com/plugin/24753-combine-and-copy-files/](https://plugins.jetbrains.com/plugin/24753-combine-and-copy-files/edit))
 
-**The Combine and Copy Files Plugin** merges multiple files into one document, split by filename and saved to the clipboard.
-ideal for combining code snippets, logs, or notes for easy sharing and editing.
+**The Combine and Copy to Clipboard Plugin** combines multiple files into one document, split by relative filepath/name and copies the result to the clipboard.
+Ideal for combining multiple frontend components, code snippets, logs, or notes for pasting into AI tools for context.
 
 ![img.png](img.png)
 
 
 **Installation:**
-- Go to `Settings -> Plugins -> Marketplace` and search for `Combine and Copy Files` or use [Plugin Link]([https://plugins.jetbrains.com/plugin/24753-combine-and-copy-files/](https://plugins.jetbrains.com/plugin/24753-combine-and-copy-files/)
+- Go to `Settings -> Plugins -> Marketplace` and search for `Combine and Copy to lipboard` or use [Plugin Link]([https://plugins.jetbrains.com/plugin/24753-combine-and-copy-files/](https://plugins.jetbrains.com/plugin/24753-combine-and-copy-files/)
 
 **Key Features:**
-- **Multiple File Selection:** Select files directly from the project view.
-- **Content Consolidation:** Merge files with headers indicating original filenames.
-- **Clipboard Integration:** Copy merged content to clipboard for easy pasting.
+- **Multiple File Selection:** Select files directly from the project view and copy from the context menu.
+- **Content Consolidation:** Merge files with headers including relative file paths (does not include username like /Users/George/...) for anonymity.
 
 **How to Use:**
-1. **Select Files:** Use Ctrl + Click or Shift + Click in Project view.
-2. **Combine Files:** Go to Tools -> Combine Files.
-3. **Clipboard Copy:** Merged content is copied to the clipboard.
+1. **Select Files:** Use Ctrl + Click or Cmd + Click in Project view.
+2. **Combine Files:** Right-click the selected files in the project vies and select Combine and Copy Files to Clipboard, or go to Tools -> Combine and Copy Files to Clipboard.
+3. **Clipboard Copy:** Merged content is copied to the clipboard split by the relative paths/names of the files.
 4. **Paste and Save:** Paste the content in your desired location.
 
 **Use Cases:**
-- **ChatGPT Integration:** Merge text files for context-rich assistance.
+- **ChatGPT Integration:** Merge any types of files for context-rich AI assistance.
 - **Code Review:** Combine source files for comprehensive reviews.
 - **Documentation:** Consolidate notes and snippets for easy sharing.
 - **Data Analysis:** Merge logs and reports for unified analysis.
