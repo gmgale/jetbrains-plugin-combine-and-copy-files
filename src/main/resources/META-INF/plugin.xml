@@ -1,23 +1,29 @@
 <idea-plugin>
     <id>com.george.gale.CombineAndCopyFiles</id>
-    <name>Combine and Copy Files</name>
-    <version>1.0.0</version>
+    <name>Combine and Copy Files to Clipboard</name>
+    <version>1.1.0</version>
     <vendor email="gmale@icloud.com" url="https://github.com/gmgale/">George Gale</vendor>
     <description>
-         Merge files and copy the result to clipboard, with each file's content separated by its filename. Ideal for providing better context to LLMs such as ChatGPT.
+         Combine and Copy the content of multiple files to the clipboard, split by path and relative file names.
+        Ideal for providing better context to LLMs such as OpenAI's ChatGPT and Anthropic's Claude.
     </description>
+
+    <change-notes>
+        <![CDATA[
+        <h3>Version 1.1.0</h3>
+        <ul>
+            <li>Added relative file paths to the copied file headings for better context</li>
+            <li>Added the "Combine and Copy Files to Clipboard" option to the project view context menu</li>
+        </ul>
+        ]]>
+    </change-notes>
 
     <depends>com.intellij.modules.platform</depends>
 
     <actions>
-        <action id="CombineFilesAction" class="com.george.gale.CombineFilesAction" text="Combine and Copy Files">
+        <action id="CombineFilesAction" class="com.george.gale.CombineFilesAction" text="Combine and Copy Files to Clipboard">
             <add-to-group group-id="ToolsMenu" anchor="last"/>
+            <add-to-group group-id="ProjectViewPopupMenu" anchor="after" relative-to-action="ProjectViewEditSource"/>
         </action>
     </actions>
-
-    <product-descriptor
-            code="PAAAA"
-            release-date="20240624"
-            release-version="10"
-            optional="true" />
 </idea-plugin>
