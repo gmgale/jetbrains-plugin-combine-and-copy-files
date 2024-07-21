@@ -1,10 +1,10 @@
 <idea-plugin>
     <id>com.george.gale.CombineAndCopyFiles</id>
-    <name>Combine and Copy Files</name>
+    <name>Combine and Copy Files to Clipboard</name>
     <version>1.1.0</version>
     <vendor email="gmale@icloud.com" url="https://github.com/gmgale/">George Gale</vendor>
     <description>
-         Combine and Copy multiple files to the clipboard, split by path and relative file name.
+         Combine and Copy the content of multiple files to the clipboard, split by path and relative file names.
         Ideal for providing better context to LLMs such as OpenAI's ChatGPT and Anthropic's Claude.
     </description>
 

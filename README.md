@@ -1,15 +1,15 @@
-### JetBrains Plugin - Combine and Copy to Clipboard
+### JetBrains Plugin - Combine and Copy Files to Clipboard
 
-[Plugin Link]([https://plugins.jetbrains.com/plugin/24753-combine-and-copy-files/](https://plugins.jetbrains.com/plugin/24753-combine-and-copy-files/edit))
+[Plugin Link]([https://plugins.jetbrains.com/plugin/24753-combine-and-copy-files-to-clipboard/])
 
-**The Combine and Copy to Clipboard Plugin** combines multiple files into one document, split by relative filepath/name and copies the result to the clipboard.
-Ideal for combining multiple frontend components, code snippets, logs, or notes for pasting into AI tools for context.
+**The Combine and Copy Files to Clipboard Plugin** combines multiple files into one document, split by relative filepath/name and copies the result to the clipboard.
+Ideal for combining multiple frontend components, code snippets, logs, or notes for pasting into AI tools for better context.
 
 ![img.png](img.png)
 
 
 **Installation:**
-- Go to `Settings -> Plugins -> Marketplace` and search for `Combine and Copy to lipboard` or use [Plugin Link]([https://plugins.jetbrains.com/plugin/24753-combine-and-copy-files/](https://plugins.jetbrains.com/plugin/24753-combine-and-copy-files/)
+- Go to `Settings -> Plugins -> Marketplace` and search for `Combine and Copy Files to Clipboard` or use [Plugin Link]([https://plugins.jetbrains.com/plugin/24753-combine-and-copy-files-to-clipboard])
 
 **Key Features:**
 - **Multiple File Selection:** Select files directly from the project view and copy from the context menu.
